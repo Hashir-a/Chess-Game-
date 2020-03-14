@@ -1,6 +1,7 @@
 #include"Chess.h"
 int main()
 {
+        print "git gub practice";
 	try{
 		Game game(white, black);
 		game.play();
